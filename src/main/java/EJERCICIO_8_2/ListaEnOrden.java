@@ -9,7 +9,7 @@ public class ListaEnOrden {
     public static void main(String [] a) {
     Random r;
     int d;
-    ListaOrdenada lista;
+    ListaOrdenada list;
     int k;
     r = new Random(); // generador de números aleatorios
     lista = new ListaOrdenada(); // crea lista vacía
